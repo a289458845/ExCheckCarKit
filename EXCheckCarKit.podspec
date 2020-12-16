@@ -26,6 +26,7 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'a289458845' => '289458845@qq.com' }
   s.source           = { :git => 'https://github.com/a289458845/EXCheckCarKit.git', :tag => s.version.to_s }
+#  https://github.com/a289458845/ExCheckCarKit.git
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
@@ -38,5 +39,6 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+#   s.dependency 'AFNetworking', '~> 2.3'
+s.dependency 'AMap3DMap'
 end

@@ -1,0 +1,22 @@
+{
+  "name": "EXCheckCarKit",
+  "version": "0.1.0",
+  "summary": "A short description of EXCheckCarKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/a289458845/EXCheckCarKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "a289458845": "289458845@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/a289458845/EXCheckCarKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "EXCheckCarKit/Classes/**/*"
+}

@@ -1,0 +1,27 @@
+PODS:
+  - EXCheckCarKit (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - EXCheckCarKit (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  EXCheckCarKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EXCheckCarKit: 4b7f410fde068ab7855674ae4f4a51b52e26b2ce
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 46b7b965d1577f06bde4a898a62ef75c120e6c94
+
+COCOAPODS: 1.10.0
